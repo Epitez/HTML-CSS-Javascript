@@ -1,2 +1,6 @@
 # HTML-CSS-Javascript
-Exemple pour cours HTML CSS &amp; Javascript
+Exemple pour le cours de JF Marronnier
+
+- HTML 
+- CSS 
+- Javascript
